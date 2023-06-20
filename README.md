@@ -1,5 +1,5 @@
-# GANs
-This is a brief introduction to Generative AI and GANs. 
+# GANs Tutorial
+This is a brief introduction to Generative AI and GANs. Learn the principles of Generative AI undestanding how GANs work and their structure. 
 
 The course takes us from the very basics of creating a GAN to building a small framework that facilitates the creation of more complex GANs capable of working with complex datasets.
 
